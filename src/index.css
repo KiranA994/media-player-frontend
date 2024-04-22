@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: "Truculenta", sans-serif;
+}
+
+@media (max-width: 600px){
+  #back{
+    display: none;
+  }
+  #history{
+    display: none;
+  }
+}
